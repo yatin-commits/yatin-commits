@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yatin Sharma</h1>
+<strong><p align="center" >a Full Stack Developer ig !</p></strong>
 
 <p align="center">
   <a href="https://linkedin.com/in/yatinsharma01">
