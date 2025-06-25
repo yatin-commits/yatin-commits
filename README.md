@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack:
+ 🚀 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -30,7 +30,7 @@
 
 ---
 <div display="flex">
-## 🏆 GitHub Trophies:
+ 🏆 GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yatin-commits&theme=radical&no-frame=false&no-bg=false&margin-w=4">
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+ 📊 GitHub Stats:
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=yatin-commits&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px"> -->
